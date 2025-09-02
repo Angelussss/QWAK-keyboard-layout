@@ -59,7 +59,7 @@ Human fingers vary in length, strength, and dexterity. QWAK incorporates these d
 By aligning key placement with natural motion, QWAK minimizes strain, making long typing sessions less fatiguing.
 
 ### Accents and Special Characters
-Italian accented characters (**à, è, é, ì, ò, ó, ù**) are not placed directly on the main layout. Instead, a dedicated button in the bottom-left corner grants access to accented letters. Modifiers like Shift or Ctrl allow selection of different accents. This approach preserves central typing space for high-frequency letters and maintains the layout's compact, efficient design.
+Italian accented characters (**à, è, é, ì, ò, ó, ù**) are not placed directly on the main layout. Instead, a dedicated button in the bottom-right corner grants access to accented letters. Modifiers like Shift or Ctrl allow selection of different accents. This approach preserves central typing space for high-frequency letters and maintains the layout's compact, efficient design.
 
 ---
 
