@@ -68,11 +68,11 @@ Italian accented characters (**à, è, é, ì, ò, ó, ù**) are not placed dire
 Heatmaps provide a visual comparison between ANSI US and QWAK layouts.
 
 - **ANSI US Layout**  
-  `![Heatmap ANSI](images/US_ANSI_heatmap.png)`  
+  ![Heatmap ANSI](images/US_ANSI_heatmap.png)  
   Frequent Italian letters are scattered, leading to long stretches, repeated same-finger sequences, and inefficient hand alternation. This reflects the typewriter-influenced design rather than linguistic optimization.
 
 - **QWAK Layout**  
-  `![Heatmap QWAK](images/QWAK_heatmap.png)`  
+  ![Heatmap QWAK](images/QWAK_heatmap.png)  
   Letters are clustered according to frequency and bigram patterns, reducing finger travel, increasing hand alternation, and centralizing high-use letters.
 
 ### ASCII Render of QWAK
@@ -88,7 +88,7 @@ Heatmaps provide a visual comparison between ANSI US and QWAK layouts.
 
 
 ### Render Placeholders
-- Letters Only: `![Letters Only](images/letter_placement_render.png)`  
+- Letters Only: ![Letters Only](images/letter_placement_render.png)  
 - Full Keyboard Render: `![Full Render](path/to/render_full.png)`  
 
 ---
